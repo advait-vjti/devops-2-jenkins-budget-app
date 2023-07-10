@@ -26,6 +26,10 @@ export const categories = {
     name: "brown",
     colour: "#572e31",
   },
+  purple: {
+    name: "purple",
+    colour: "#A020F0"
+  }
 };
 
 // 5. The reduceer - this is used to update the state, based on the action
