@@ -27,7 +27,7 @@ export const categories = {
     colour: "#572e31",
   },
   purple: {
-    name: "purple1",
+    name: "purple",
     colour: "#A020F0"
   }
 };
